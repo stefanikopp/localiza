@@ -52,8 +52,8 @@ Linguagem escolhida <br>
 
 # Configurações do Projeto
 <b>Front-End</b><br>
-https://github.com/stefanikopp/localiza-frontend
+https://github.com/stefanikopp/localiza-frontend<br>
 <b>Back-End</b><br>
-https://github.com/stefanikopp/back-end-locoliza
+https://github.com/stefanikopp/back-end-locoliza<br>
 
 <b>Banco de Dados</b><br>
