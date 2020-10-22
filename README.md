@@ -52,7 +52,7 @@ Linguagem escolhida <br>
 
 # Configurações do Projeto
 <b>Front-End</b><br>
-
+https://github.com/stefanikopp/localiza-frontend
 <b>Back-End</b><br>
 https://github.com/stefanikopp/back-end-locoliza
 
