@@ -59,6 +59,7 @@ Linguagem escolhida <br>
 # Visão Lógica
 
 # Visão de Implantação
+Como os componentes de software são distribuidos na infraestrutra de hardware, ilustração através do diagrama de deployment das relações físicas entre componentes de software e hardware no sistema 
 
 # Atributo de Qualidade
 
