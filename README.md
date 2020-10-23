@@ -42,7 +42,7 @@ Linguagem escolhida <br>
      
 <h2>Diagrama de Caso de Uso</h2> 
 
-![Alt Text](https://github.com/stefanikopp/trabalho-1/blob/main/diagrama-caso-de-uso.PNG)
+![Alt Text](https://github.com/stefanikopp/localiza/blob/main/diagrama_caso_de_uso.JPG)
 
 # Visão Lógica
 
