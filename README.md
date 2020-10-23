@@ -23,10 +23,10 @@ E por fim, temos a camada de Modelo, que consiste na essência das regras de neg
 # Requisitos e Restrições Arquiteturais
 <h4>Softwares Utilizados</h4>
 
-•	Node.js;
-•	Gerenciador de dependências Yarn;
-•	Software de gerenciamento de Banco de Dados DataGrip;
-•	IDE Microsoft Visual Studio.
+•	Node.js; <br>
+•	Gerenciador de dependências Yarn;<br>
+•	Software de gerenciamento de Banco de Dados DataGrip;<br>
+•	IDE VS Code.
 
 
 # Visão de Caso de Uso - User Stories
