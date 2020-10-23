@@ -35,10 +35,10 @@ Linguagem escolhida <br>
      Gostaria de poder gerar um relatório por ecommerce<br>
      Para guardar um documento com o meu histórico de compra.
      
-<b>US05 - Gerar relatório por data</b><br>
+<b>US05 - Gerar relatório por Valor Total do Pedido</b><br>
      Eu como usuário do sistema<br>
-     Gostaria de poder gerar um relatório por data de compra<br>
-     Para guardar um documento com o meu histórico de compra por um periodo especifico.
+     Gostaria de poder gerar um relatório por valor total do pedido<br>
+     Para pode controlar meus gastos.
      
 <h2>Diagrama de Caso de Uso</h2> 
 
