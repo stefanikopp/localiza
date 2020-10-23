@@ -51,9 +51,22 @@ Linguagem escolhida <br>
 # Atributo de Qualidade
 
 # Configurações do Projeto
+
 <b>Front-End</b><br>
+```bash
 https://github.com/stefanikopp/localiza-frontend<br>
+```
+
 <b>Back-End</b><br>
+```bash
 https://github.com/stefanikopp/back-end-locoliza<br>
+```
 
 <b>Banco de Dados</b><br>
+```bash
+MySQL
+nome: pedidos_ecommerce
+host: localhost
+user: root
+password: 12345678
+```
