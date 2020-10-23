@@ -17,6 +17,8 @@ E por fim, temos a camada de Modelo, que consiste na essência das regras de neg
 
 <h3>Representação MVC</h3>
 
+![Alt Text](https://github.com/stefanikopp/localiza/blob/main/representacao_MVC.jpeg)
+
 # Requisitos e Restrições Arquiteturais
  - VS CODE versão 12
  - NODE versão
