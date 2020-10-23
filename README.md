@@ -62,12 +62,17 @@ E por fim, temos a camada de Modelo, que consiste na essência das regras de neg
 
 # Visão Lógica
 
+
+
 # Visão de Implantação
 Como os componentes de software são distribuidos na infraestrutra de hardware, ilustração através do diagrama de deployment das relações físicas entre componentes de software e hardware no sistema.
 
-# Diagrama de Deployment
+<b>Diagrama de Deployment<b/>
 
-![erro](https://github.com/stefanikopp/localiza/blob/main/diagrama_deployment.JPG)
+![deploy](https://github.com/stefanikopp/localiza/blob/main/diagrama_deployment.JPG)
+
+<b>Diagrama de Componentes<b/>
+![comp](https://github.com/stefanikopp/localiza/blob/main/diagrama-comp.jpeg)
 
 # Atributo de Qualidade
 
