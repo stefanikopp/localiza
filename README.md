@@ -67,7 +67,7 @@ Como os componentes de software são distribuidos na infraestrutra de hardware, 
 
 # Diagrama de Deployment
 
-![Alt Text](https://github.com/stefanikopp/localiza/blob/main/diagrama_deployment.JPG)
+![erro](https://github.com/stefanikopp/localiza/blob/main/diagrama_deployment.JPG)
 
 # Atributo de Qualidade
 
