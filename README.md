@@ -52,7 +52,7 @@ Linguagem escolhida <br>
      Gostaria de poder gerar um relatório por status de pedido<br>
      Para pode controlar os pedidos já entregue.
      
-<h2>Diagrama de Caso de Uso</h2> 
+# Diagrama de Caso de Uso
 
 ![Alt Text](https://github.com/stefanikopp/localiza/blob/main/diagrama_caso_de_uso.JPG)
 
