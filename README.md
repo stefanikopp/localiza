@@ -62,6 +62,7 @@ E por fim, temos a camada de Modelo, que consiste na essência das regras de neg
 
 # Visão Lógica
 
+![classe](https://github.com/stefanikopp/localiza/blob/main/dia-classe.jpeg)
 
 
 # Visão de Implantação
