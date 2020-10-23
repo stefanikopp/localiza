@@ -14,6 +14,10 @@ A camada de Visão é relacionada ao visual da aplicação, ou seja, as telas qu
 Já a camada de Controle atua como intermediária entre as regras de negócio (camada Modelo) e a Visão, realizando o processamento de dados informados pelo usuário e repassando-os para as outras camadas. 
 E por fim, temos a camada de Modelo, que consiste na essência das regras de negócio, envolvendo as classes do sistema e o acesso aos dados. 
 
+<h3> Representação MVC </h3>
+
+![Alt Text](https://github.com/stefanikopp/localiza/blob/main/representacao_MVC.jpeg)
+
 
 # Requisitos e Restrições Arquiteturais
 Softwares Utilizados <br>
