@@ -76,7 +76,7 @@ Como os componentes de software são distribuidos na infraestrutra de hardware, 
 
 # Atributo de Qualidade
 
-Ecolhemos como atributo de qualidade manutenibilidade, a estruturação do projeto foi feito pensando em seguir o mais fiel possivel a arquitetura e padrões geralmente
+Ecolhemos como atributo de qualidade <b>manutenibilidade</b>, a estruturação do projeto foi feito pensando em seguir o mais fiel possivel a arquitetura e padrões geralmente
 utilizadas para que qualquer desenvolvedor que tenha um conhecimento sobre as mesmas consiga implementar novas features.
 
 # Configurações do Projeto
