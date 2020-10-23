@@ -50,6 +50,9 @@ Linguagem escolhida <br>
 
 # Atributo de Qualidade
 
+Ecolhemos como atributo de qualidade manutenibilidade, a estruturação do projeto foi feito pensando em seguir o mais fiel possivel a arquitetura e padrões geralmente
+utilizadas para que qualquer desenvolvedor que tenha um conhecimento sobre as mesmas consiga implementar novas features.
+
 # Configurações do Projeto
 
 <b>Front-End</b><br>
