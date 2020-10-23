@@ -2,7 +2,7 @@
 <b>Trabalho 1</b> <br>
 <b>Disciplina:</b> Projeto e Arquitetura de Software <br>
 <b>Professora:</b> Ana Terra Bacelos <br>
-<b>Time:</b> Camila Borba, Jessica Manoel, Stefani Kopp, Victoria
+<b>Time:</b> Camila Borba, Jessica Manoel, Stefani Kopp, Victoria Azevedo
 
 # Introdução
 Neste documento estão registradas as partes significativas das escolhas de arquitetura do projeto para um sistema de registro de pedidos dos usuários nos mais diversos e-commerces, assim sendo um local único para acompanhamento e histórico de compras.
