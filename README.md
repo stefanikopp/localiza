@@ -92,6 +92,15 @@ O Adapter é um padrão de projeto estrutural que permite objetos com interfaces
 Em nossa aplicação temos uma pagina no nosso frontend onde podemos cadastrar um ecommerce com seus dados (nome, endereço, telefone). Para ficar mais 
 otimizado fizemos a integração com a api ```https://viacep.com.br/ws/{cep}/json/ ```, onde passando um CEP ele retorna um endereço compeleto, e após o recebimento dessa informação nossa api tranforma o objeto recebido para o objeto que temos mapeado em nossa base de dados e assim a informação é armazenada de forma correta. 
 
+# Strategy
+
+O padrão strategy é utilizado permite criar contratos entre condições, para que estas sejam utilizadas em outro contexto, não diminuindo o acoplamento nas soluções, já que as condições específicas ficam em diferentes classes e são chamadas, se necessário, por meio de uma classe strategy. Permite também a variação do algoritmo independentemente de onde esteja sendo utilizado.
+
+![ad](https://github.com/stefanikopp/localiza/blob/main/DiagramaDeClasse2Parte.jpg)
+
+Na nossa aplicação o strategy é usado para acessar as rotas. foi criado uma interface routes.strategy e nela foi mapeado todos os métodos que as nossas controller utilizam e em cada rota que acessam as respectivas controllers foi chamado os métodos que estão na routes.strategy.
+
+
 Esse é o objeto retorna pelo fornecedor.
 ```bash
 {
