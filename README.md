@@ -101,6 +101,12 @@ O padrão strategy é utilizado permite criar contratos entre condições, para 
 Na nossa aplicação o strategy é usado para acessar as rotas. foi criado uma interface routes.strategy e nela foi mapeado todos os métodos que as nossas controller utilizam e em cada rota que acessam as respectivas controllers foi chamado os métodos que estão na routes.strategy.
 
 
+Diagrama de Classe
+O diagrama de classes da aplicação Localiza mapeia principalmente as entidades necessárias para o
+funcionamento da aplicação de acordo com os requisitos estabelecidos e descritos anteriormente.
+
+![ad](https://github.com/stefanikopp/localiza/blob/main/DiagramaDeClasse2Parte.jpg)
+
 Esse é o objeto retorna pelo fornecedor.
 ```bash
 {
