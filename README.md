@@ -132,6 +132,12 @@ funcionamento da aplicação de acordo com os requisitos estabelecidos e descrit
 
 ![ad](https://github.com/stefanikopp/localiza/blob/main/DiagramaDeClasse2Parte.jpg)
 
+# Diagrama de Sequencia
+
+O diagrama de sequencia mapeia a interação do usuário com a aplicação, mostrando o fluxo que é realizado por este ao adicionar um novo ecommerce.
+
+![ad](https://github.com/stefanikopp/localiza/blob/main/DiagramaSequencia.PNG)
+
 # Configurações do Projeto
 
 <b>Api Externa</b><br>
