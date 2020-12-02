@@ -82,6 +82,13 @@ utilizadas para que qualquer desenvolvedor que tenha um conhecimento sobre as me
 
 # Configurações do Projeto
 
+<b>Api Externa</b><br>
+```bash
+https://viacep.com.br/ws/{cep}/json/
+```
+Api utilizada para buscar o enredeço conforme um CEP.
+
+
 <b>Front-End</b><br>
 ```bash
 https://github.com/stefanikopp/localiza-frontend
