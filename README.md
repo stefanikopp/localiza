@@ -80,6 +80,42 @@ Como os componentes de software são distribuidos na infraestrutra de hardware, 
 Ecolhemos como atributo de qualidade <b>manutenibilidade</b>, a estruturação do projeto foi feito pensando em seguir o mais fiel possivel a arquitetura e padrões geralmente
 utilizadas para que qualquer desenvolvedor que tenha um conhecimento sobre as mesmas consiga implementar novas features.
 
+
+# PARTE 2
+
+# Adapter
+
+O Adapter é um padrão de projeto estrutural que permite objetos com interfaces incompatíveis colaborarem entre si.
+
+![ad](https://github.com/stefanikopp/localiza/blob/main/adapterIMG.PNG)
+
+Em nossa aplicação temos uma pagina no nosso frontend onde podemos cadastrar um ecommerce com seus dados (nome, endereço, telefone). Para ficar mais 
+otimizado fizemos a integração com a api ```https://viacep.com.br/ws/{cep}/json/ ```, onde passando um CEP ele retorna um endereço compeleto, e após o recebimento dessa informação nossa api tranforma o objeto recebido para o objeto que temos mapeado em nossa base de dados e assim a informação é armazenada de forma correta. 
+
+Esse é o objeto retorna pelo fornecedor.
+```bash
+{
+  "cep": "91410-080",
+  "logradouro": "Rua Ângelo Crivellaro",
+  "complemento": "",
+  "bairro": "Jardim do Salso",
+  "localidade": "Porto Alegre",
+  "uf": "RS",
+  "ibge": "4314902",
+  "gia": "",
+  "ddd": "51",
+  "siafi": "8801"
+}
+```
+Após a motificação dos dados nosso objeto é armazenado corretamente em nossa base de dados.
+```bash
+  {
+    "id": 11,
+    "nome": "BIG",
+    "telefone": "51988887585",
+    "endereco": "Rua Ângelo Crivellaro, 15 - Porto Alegre/RS"
+  }
+  ```
 # Configurações do Projeto
 
 <b>Api Externa</b><br>
