@@ -96,7 +96,7 @@ otimizado fizemos a integração com a api ```https://viacep.com.br/ws/{cep}/jso
 
 O padrão strategy é utilizado permite criar contratos entre condições, para que estas sejam utilizadas em outro contexto, não diminuindo o acoplamento nas soluções, já que as condições específicas ficam em diferentes classes e são chamadas, se necessário, por meio de uma classe strategy. Permite também a variação do algoritmo independentemente de onde esteja sendo utilizado.
 
-![ad](https://github.com/stefanikopp/localiza/blob/main/DiagramaDeClasse2Parte.jpg)
+![ad](https://github.com/stefanikopp/localiza/blob/main/Strategy.PNG)
 
 Na nossa aplicação o strategy é usado para acessar as rotas. foi criado uma interface routes.strategy e nela foi mapeado todos os métodos que as nossas controller utilizam e em cada rota que acessam as respectivas controllers foi chamado os métodos que estão na routes.strategy.
 
